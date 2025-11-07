@@ -1,4 +1,4 @@
-package ru.evggol.clientorders.services;
+package ru.evggol.clientorders.clients.services;
 
 import org.springframework.stereotype.Service;
 
